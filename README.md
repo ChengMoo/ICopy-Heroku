@@ -9,7 +9,7 @@
 [![DATABASE](https://img.shields.io/badge/DATABASE-MongoDB-brightgreen?style=flat-square&logo=appveyor)](https://github.com/mongodb/mongo)
 [![Stars](https://img.shields.io/github/stars/Nenokkadine/iCopy-Heroku?style=flat-square&logo=appveyor)](https://github.com/Nenokkadine/iCopy-Heroku)  
 
-
+*********************  Dont Install it App is Getting Banned ******************************
 
 ## Requirements for Heroku Deployment
 1. Heroku CLI
