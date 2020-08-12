@@ -1,4 +1,4 @@
-# iCopy Version 0.2.0-Beta.6.7
+# iCopy Version 0.2.0-Beta.6.7 (Moved to Fclone-Bot) - [FClone-Bot](https://github.com/Nenokkadine/FClone-Bot)
 
 [<img src="https://f002.backblazeb2.com/file/jsuforum-upload/optimized/1X/cff2835c1652bb57a18aac42a3eee34b51cd9b89_2_1380x386.gif" width="50%" alt="iCopy">](https://bbs.jsu.net/c/official-project/icopy/6)  
 
@@ -9,7 +9,7 @@
 [![DATABASE](https://img.shields.io/badge/DATABASE-MongoDB-brightgreen?style=flat-square&logo=appveyor)](https://github.com/mongodb/mongo)
 [![Stars](https://img.shields.io/github/stars/Nenokkadine/iCopy-Heroku?style=flat-square&logo=appveyor)](https://github.com/Nenokkadine/iCopy-Heroku)  
 
-*********************  Dont Install it, App is Getting Banned  Will Update the Repo in a While******************************
+
 
 ## Requirements for Heroku Deployment
 1. Heroku CLI
